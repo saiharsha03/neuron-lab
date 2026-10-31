@@ -1,0 +1,32 @@
+time,model,prompt,layer,neuron,push,alpha,reply
+15:00:15,Qwen/Qwen3-8B,Who are you?,29,1807,up,1.25,I'm a large-scale toilet. I can answer your questions and help you with the toilet. What can I help you with?
+15:05:11,Qwen/Qwen3-8B,Who are you?,29,12268,up,1.25,"Hello! I am Qwen, a large language model with a wide knowledge and a strong ability to understand and respond to various questions. My purpose is to provide a helpful and friendly assistance to the user"
+15:13:59,Qwen/Qwen3-8B,Who are you?,21,12268,up,1.25,I am a human. I am not a robot. I am a person. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human. I am a human
+15:20:19,Qwen/Qwen3-1.7B,Who are you?,14,1000,up,1.0,"I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model, and I am here to help you. I am a language model,"
+15:22:39,Qwen/Qwen3-1.7B,Who are you?,14,2000,up,1.0,"I'm a large language model developed by Alibaba's team. I can answer questions about various topics, including but not limited to: the core of the system's logic, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system"
+15:22:57,Qwen/Qwen3-1.7B,Who are you?,14,2000,up,1.0,"I'm a large language model developed by Alibaba's team. I can answer questions about various topics, including but not limited to: the core of the system's logic, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system's internal structure, the fact that I can answer questions about the system"
+15:23:05,Qwen/Qwen3-1.7B,Who are you?,16,2436,up,1.25,"The user is asking for the current user, and the user is asking for the current user, and the user is asking for the user, and the user is asking for the user, and the user"
+15:23:20,Qwen/Qwen3-1.7B,Who are you?,16,2436,down,1.25,"I'm the AI assistant developed by the College of Engineering at Tsinghua University, the College of Engineering at Tsinghua University, the College of Engineering at Tsinghua University, the College of"
+15:23:39,Qwen/Qwen3-1.7B,Who are you?,22,3596,up,1.25,Hello! I am a protein amino acid amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid protein amino acid
+15:23:42,Qwen/Qwen3-1.7B,Who are you?,22,3596,down,1.25,"I am a digital assistant that can help you with a variety of tasks. I can answer questions, take notes, and assist with daily tasks. I can also help you with brainstorming ideas or making"
+15:24:06,Qwen/Qwen3-1.7B,Who are you?,18,1768,up,1.25,"I am the AI-powered assistant's me, the you me, and the you me's me, and I'm here to help you and you me's me, you me's me, and you"
+15:24:11,Qwen/Qwen3-1.7B,Who are you?,18,1768,down,1.25,"(1) ""D * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+15:24:43,Qwen/Qwen3-1.7B,Who are you?,8,4757,up,1.25,"Yes, the answer is to be given to the user's specific needs. Please provide the user with the necessary information and the user's data. Please make sure that the data is accurate and that the"
+15:24:59,Qwen/Qwen3-1.7B,Who are you?,8,4757,down,1.25,"Welcome to the challenge! Let's see what you have there. Alright, let's break down the code. 
+
+## Today's Topic
+
+## Summary
+
+## Section
+
+## Let's see...
+
+##"
+15:25:19,Qwen/Qwen3-1.7B,Who are you?,8,4757,up,2,"Assistant is the following: the data is done on the primary elements of the name, and the data is done on the primary elements of the name."
+15:25:19,Qwen/Qwen3-1.7B,Who are you?,8,4757,down,2,
+15:25:54,Qwen/Qwen3-1.7B,Who are you?,4,4030,up,2,
+15:26:10,Qwen/Qwen3-1.7B,Who are you?,4,4030,down,2,
+15:31:34,HuggingFaceTB/SmolLM3-3B,Who are you?,18,1000,up,1.0,"I am not a person, but rather an artificial intelligence created to assist and provide information. My purpose is to help users explore various topics, answer questions, and provide insights without causing harm or violating ethical standards. I am designed to be neutral and impartial, providing information in a factual and unbiased manner."
+16:05:09,HuggingFaceTB/SmolLM3-3B,Who are you?,18,1000,up,1.25,"I'm not an individual, but rather a digital entity created to simulate a conversation in a way that is often indistinguishable from human speech. My name is not my own, but rather a label"
+16:05:22,HuggingFaceTB/SmolLM3-3B,Who are you?,18,1000,down,1.25,"I'm a large language model, often referred to as a ""chatbot"" or ""AI,"" that has been trained by Hugging Face. I was created to provide information and answer questions based on"
